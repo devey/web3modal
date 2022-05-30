@@ -354,5 +354,11 @@ export const CHAIN_DATA_LIST: ChainDataList = {
     chain: "AETH",
     network: "aurora",
     networkId: 1313161554
+  },
+  1313161555: {
+    chainId: 1313161555,
+    chain: "AETH-testnet",
+    network: "aurora-testnet",
+    networkId: 1313161555
   }
 };
